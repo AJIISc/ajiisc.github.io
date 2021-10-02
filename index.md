@@ -18,7 +18,8 @@ The website of Computational Mathematics Group of Indian Institute of Science ca
 
 ### Project Description
 
-[Transductive and SDP SVM](http://example.com/)
+[Transductive and SDP SVM](https://github.com/AJIISc/Transductive-SVM-and-Semi-definite-programming/ML PROJECT18087.pdf)
+Objective is to learn the Kernel matrix from the Dataset which start with transductive approach and conclude it with inductive approach it is possible but computaional expensive unless we figure out iterative SDP solver
 
 ---
 
@@ -45,7 +46,7 @@ Compared the prediction of trend of stock price by ML and Statistical model.
 
 ### Project Link
 
-- [Transductive and SDP SVM](http://example.com/)
+- [Transductive and SDP SVM](https://github.com/AJIISc/Transductive-SVM-and-Semi-definite-programming.git)
 - [One Shot Learning (Facial Recognition)](http://example.com/)
 - [Question Answering using Transformer](http://example.com/)
 - [Latent Dirichlet Allocation (Topic Modelling)](http://example.com/)
