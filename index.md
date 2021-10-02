@@ -18,7 +18,7 @@ The website of Computational Mathematics Group of Indian Institute of Science ca
 
 ### Project Description
 
-[Transductive and SDP SVM](/pdf/ML_PROJECT18087.pdf)
+[Transductive and SDP SVM](https://ajiisc.github.io/Transductive-SVM-and-Semi-definite-programming/)
 Objective is to learn the Kernel matrix from the Dataset which start with transductive approach and conclude it with inductive approach it is possible but computaional expensive unless we figure out iterative SDP solver
 
 ---
