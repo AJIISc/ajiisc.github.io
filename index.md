@@ -18,7 +18,7 @@ The website of Computational Mathematics Group of Indian Institute of Science ca
 
 ### Project Description
 
-[Transductive and SDP SVM](https://ajiisc.github.io/Transductive-SVM-and-Semi-definite-programming/)
+[Transductive and SDP SVM](/pdf/ML_PROJECT18087.pdf)
 Objective is to learn the Kernel matrix from the Dataset which start with transductive approach and conclude it with inductive approach it is possible but computaional expensive unless we figure out iterative SDP solver
 
 ---
@@ -28,7 +28,7 @@ Implemented one-shot learning (Siamese network architecture) with triplet loss f
 Used pre-trained model to map face images to encodings and performed face verification and face recognition with encodings.
 
 ---
-[Question Answering using Transformer](/pdf/sample_presentation.pdf)
+[Question Answering using Transformer](/pdf/)
 Visualized how positional encodings affect word embeddings.
 Performed Extractive QA to identify the portion of the text that contains the answer to a question and implemented a QA model using TensorFlow.
 
