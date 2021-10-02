@@ -15,45 +15,46 @@ The website of Computational Mathematics Group of Indian Institute of Science ca
 
 
 
-## Project Link
 
+### Project Description
 
-#### Module 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [[Github Page](https://github.com/sum1995/DS200-ResearchMethods){:target="_blank"}]
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Transductive and SDP SVM](http://example.com/)
 
 ---
 
+[One Shot Learning (Facial Recognition)](/sample_page)
+Implemented one-shot learning (Siamese network architecture) with triplet loss funtion using keras.
+Used pre-trained model to map face images to encodings and performed face verification and face recognition with encodings.
+
+---
+[Question Answering using Transformer](/pdf/sample_presentation.pdf)
+Visualized how positional encodings affect word embeddings.
+Performed Extractive QA to identify the portion of the text that contains the answer to a question and implemented a QA model using TensorFlow.
+
+---
+[Latent Dirichlet Allocation (Topic Modelling)](http://example.com/)
+Collected recent abstract from arXiv.org under econ.EM category.
+Implemented Latent Dirichlet Allocation using collapsed Gibbs Sampling.
+
+---
+[Stock Trend Predictor using LSTM (Multihead Attention) and ARIMA model](http://example.com/)
+Used LSTM and Time series forecasting ARIMA method for prediction of trend of Reliance Industires Ltd. stocks over span of 30 yrs.
+Compared the prediction of trend of stock price by ML and Statistical model.
+---
+
+
+### Project Link
+
+- [Transductive and SDP SVM](http://example.com/)
+- [One Shot Learning (Facial Recognition)](http://example.com/)
+- [Question Answering using Transformer](http://example.com/)
+- [Latent Dirichlet Allocation (Topic Modelling)](http://example.com/)
+- [Stock Trend Predictor using LSTM (Multihead Attention) and ARIMA model](http://example.com/)
+
+---
+
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
