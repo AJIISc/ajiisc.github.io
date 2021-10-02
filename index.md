@@ -14,7 +14,7 @@ Apart from research, I enjoy reading Law and Political philosophy , Working out 
 The website of Computational Mathematics Group of Indian Institute of Science can be found <a href = "https://cmg.cds.iisc.ac.in/" target = "blank"> <b>CMG</b> </a>.
 
 
-#### Module 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [[Github Page](https://github.com/AJIISc/DS200){:target="_blank"}]
+#### Module 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [[Github Page](https://ajiisc.github.io/DS200/){:target="_blank"}]
 
 ### Project Description
 
